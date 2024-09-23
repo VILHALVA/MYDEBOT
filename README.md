@@ -1,7 +1,7 @@
 # MYDEBOT
 👨‍🏫ELE RESPONDE A MENSAGENS DE TEXTO DO USUÁRIO E PODE EXIBIR BOTÕES INTERATIVOS QUE PERMITEM AO USUÁRIO SELECIONAR DIFERENTES OPÇÕES.
 
-<img src="./IMAGENS/FOTO_01.png" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_01.png" align="center" width="500"> <br> <br>
 <img src="./IMAGENS/FOTO_02.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
